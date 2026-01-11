@@ -4,7 +4,7 @@ A smart, AI-powered web application that generates personalized travel itinerari
 
 ## Features
 
-*   **AI-Powered Planning:** Utilizes the Groq API (Llama 3 model) to generate detailed, day-by-day travel itineraries.
+*   **AI-Powered Planning:** Utilizes the Groq API (Llama 3.1 model) to generate detailed, day-by-day travel itineraries.
 *   **Customizable Inputs:** Users can specify destination, budget, interests, and trip duration for a tailored experience.
 *   **Zero-Dependency Backend:** Built entirely with Node.js native modules (`http`, `https`, `fs`)—no `npm install` required.
 *   **Secure Configuration:** Sensitive API keys are managed via a `.env` file, keeping them safe from version control.
@@ -15,6 +15,16 @@ A smart, AI-powered web application that generates personalized travel itinerari
 *   **Backend:** Node.js (Native Modules)
 *   **AI Model:** Groq API (Llama 3.1)
 *   **Frontend:** HTML5, CSS3, Vanilla JavaScript
+
+## Future Improvements
+
+*   **PDF Export:** Allow users to download their itinerary as a PDF.
+*   **Map Integration:** Display recommended locations on an interactive map.
+*   **User Accounts:** Save past itineraries and preferences.
+
+## Screenshots
+
+![App Interface](https://via.placeholder.com/800x450?text=Upload+Your+App+Screenshot+Here)
 
 ## Getting Started
 
